@@ -15,11 +15,10 @@
 <br />
 <br />
 <p align="center">
-<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MakuroX&theme=onedark" alt="MrBlueBird2" />
+<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MakuroX&theme=onedark" alt="MakuroX" />
 </p>
 
-#### Contribution Graph
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MakuroX&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+
 
 
 ## My tech stack
