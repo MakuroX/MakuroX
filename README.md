@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Nick <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+No+Brin+Programmer;+Dev;Game+Dev;Bot3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+No+Brin+Programmer;Game+Dev;3"></a>
 </p>
 
 
